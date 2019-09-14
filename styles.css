@@ -27,7 +27,7 @@ text-transform: uppercase;
 #header-title {
  display: block;
  float: left;
- font-size: 50px;
+ font-size: 30px;
  font-weight: bold;
  padding: 0 5px;
 }
@@ -47,6 +47,7 @@ text-transform: uppercase;
 .container {
  max-width: 1000px;
  margin: 0 auto;
+font-size: 30px;
 }
 
 #footer {
@@ -106,8 +107,8 @@ font-size: 30px;
 }
 
 .post-author img, .about-author img {
- width: 300px;
- height: 300px;
+ width: 180px;
+ height: 180px;
  vertical-align: middle;
  border-radius: 50%;
 }
