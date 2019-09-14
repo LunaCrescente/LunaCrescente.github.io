@@ -78,7 +78,8 @@ a:hover {
 #column1 {
  display: block;
  float: left;
- padding: 25px 5px 6px 5px;  
+ padding: 25px 5px 6px 5px; 
+font-size: 30px;
 }
 
 #column2 {
@@ -87,6 +88,7 @@ a:hover {
  float: right;
  text-align: right;
 padding: 25px 5px 6px 5px;
+font-size: 30px;
 }
 
 #column2 p {
